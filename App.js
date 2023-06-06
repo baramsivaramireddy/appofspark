@@ -75,7 +75,7 @@ export default function App() {
     <StatusBar />
      <NavigationContainer>
        <Stack.Navigator  initialRouteName="Home">
-      <Stack.Screen name="Home" options={{ title: 'SPARK' }} component={BottomNav} />
+      <Stack.Screen name="Home" options={{ title: 'KITS SPARK' }} component={BottomNav} />
     </Stack.Navigator>
     </NavigationContainer>
     </>

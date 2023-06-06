@@ -178,7 +178,7 @@ return (
        <Row className="border-b-2 border-slate-100 p-1 border-dotted">
        <Text>{timetable.data[2][5]}</Text>
        </Row >
-       <Row>
+       <Row className="border-b-2 border-slate-100 p-1 border-dotted">
        <Text>{timetable.data[3][5]}</Text>
        </Row>
        <Row className="border-b-2 border-slate-100 p-1 border-dotted">
