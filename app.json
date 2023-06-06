@@ -2,7 +2,7 @@
   "expo": {
     "name": "kitsspark",
     "slug": "kitsspark",
-    "version": "3.5",
+    "version": "4.0.0",
     "orientation": "portrait",
     "icon": "./assets/adaptive-icon.png",
     "userInterfaceStyle": "light",
@@ -15,14 +15,16 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "buildNumber": "1"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.shiv0.kitsspark"
+      "package": "com.shiv0.kitsspark",
+      "versionCode": 4
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -31,6 +33,7 @@
       "eas": {
         "projectId": "0f1bf2ec-bfd7-4e29-9055-2a82677f1cab"
       }
-    }
+    },
+    "owner": "shiv0"
   }
 }
