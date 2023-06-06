@@ -1,3 +1,3 @@
-let baseUrl = "http://13.234.185.32"
+let baseUrl = "http://13.233.126.93:8000/"
 
 export {baseUrl}
