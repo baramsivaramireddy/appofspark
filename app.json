@@ -2,7 +2,7 @@
   "expo": {
     "name": "kitsspark",
     "slug": "kitsspark",
-    "version": "4.0.0",
+    "version": "4.5.0",
     "orientation": "portrait",
     "icon": "./assets/adaptive-icon.png",
     "userInterfaceStyle": "light",
@@ -24,7 +24,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.shiv0.kitsspark",
-      "versionCode": 4
+      "versionCode": 4.5
     },
     "web": {
       "favicon": "./assets/favicon.png"
