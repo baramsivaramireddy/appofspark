@@ -192,6 +192,10 @@ return (
             </View>
         )}
       </ScrollView>
+      <View>
+            <Text>© by dept of CSD</Text>
+        </View>
     </View>
+    
 )
 }

@@ -1,3 +1,3 @@
-let baseUrl = "https://api.kitsspark.in/"
+let baseUrl = "https://api.kitsspark.in"
 
 export {baseUrl}
