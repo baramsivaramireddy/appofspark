@@ -1,3 +1,3 @@
-let baseUrl = "http://13.233.126.93:8000"
+let baseUrl = "https://api.kitsspark.in/"
 
 export {baseUrl}
